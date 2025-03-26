@@ -18,19 +18,19 @@ Este repositório contém uma API desenvolvida para gerenciar notas, permitindo 
 
 2. Navegue até o diretório do projeto:
 
-cd notes-api
+   cd notes-api
 
 3. Instale as dependências:
 
-npm install
+   npm install
 
 4. Configure as variáveis de ambiente:
 
-Renomeie o arquivo .env.example para .env e preencha as variáveis conforme necessário.
+   Renomeie o arquivo .env.example para .env e preencha as variáveis conforme necessário.
 
 5. Execute as migrações do banco de dados:
 
-npx knex migrate:latest
+   npx knex migrate:latest
 
 
 ## Executando a Aplicação
