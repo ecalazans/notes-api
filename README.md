@@ -37,6 +37,7 @@ Este repositório contém uma API desenvolvida para gerenciar notas, permitindo 
 
 1. Inicie o servidor:
 
-npm start
+   npm start
+
 
 A aplicação estará disponível em http://localhost:<PORT>, onde <PORT> é o número da porta especificado no arquivo .env.
